@@ -1,0 +1,51 @@
+dep "laptop" do
+  # Build the standard Icelab environment
+  requires "icelab:workstation"
+
+  requires "personal"
+end
+
+dep "personal" do
+
+  # Packages
+  requires "wget.managed"
+
+  # Apps
+  requires "charles"
+  requires "doxie"
+  requires "firefox"
+  requires "fluid"
+  requires "flux"
+  requires "gitx-rowanj"
+  requires "google-chrome"
+  requires "imageoptim"
+  requires "launchbar"
+  requires "rdio"
+  requires "reveal"
+  requires "slack"
+  requires "skype"
+  requires "sublime-text3"
+  requires "textexpander"
+  requires "onepassword"
+  requires "virtualbox"
+  requires "vlc"
+
+  # Sublime Text 3 packages
+  requires "AdvancedNewFile.subl_package"
+  requires "CodeFormatter.subl_package"
+  requires "CoffeeScript.subl_package"
+  requires "ColorPicker.subl_package"
+  requires "GitGutter.subl_package"
+  requires "JSX.subl_package"
+  requires "MarkdownEditing.subl_package"
+  requires "PrettyJson.subl_package"
+  requires "Ruby-Slim.subl_package"
+  requires "SCSS.subl_package"
+  requires "Sublime-Wrap-Plus.subl_package"
+  requires "SublimeLinter.subl_package"
+  requires "SublimeLinter-jshint.subl_package"
+  requires "SublimeLinter-ruby.subl_package"
+  requires "Theme - Soda.subl_package"
+  requires "TomDoc.subl_package"
+  requires "TrailingSpaces.subl_package"
+end
