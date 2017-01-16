@@ -72,9 +72,6 @@ dep "personal" do
   requires "visual-studio-code"
   requires "vlc"
 
-  # LaunchBar actions
-  requires "Caffeinate.lbaction"
-
   requires "vscode extensions"
 
   # Sublime Text 3 packages
