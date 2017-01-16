@@ -51,7 +51,6 @@ dep "personal" do
   requires "gitter"
   requires "glueprint"
   requires "google-chrome"
-  requires "gpgtools"
   requires "hammerspoon"
   requires "handbrake"
   requires "hazel"
