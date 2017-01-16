@@ -112,6 +112,10 @@ subl "Theme - Soda.subl_package" do
   source "https://github.com/buymeasoda/soda-theme"
 end
 
+subl "Theme - Popcorn.subl_package" do
+  source "https://github.com/makenosound/popcorn-theme"
+end
+
 subl "TomDoc.subl_package" do
   source "https://github.com/brandonhilkert/TomDoc-Sublime"
 end
