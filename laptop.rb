@@ -41,7 +41,6 @@ dep "personal" do
   requires "charles"
   requires "cloak"
   requires "dash"
-  requires "doxie"
   requires "firefox"
   requires "firefoxdeveloperedition"
   requires "fluid"
