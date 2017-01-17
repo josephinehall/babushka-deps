@@ -62,7 +62,7 @@ dep "personal" do
   requires "reveal"
   requires "slack"
   requires "skype"
-  requires "sublime-text"
+  requires "sublime-text3"
   requires "superduper"
   requires "taskpaper"
   requires "tokens"
