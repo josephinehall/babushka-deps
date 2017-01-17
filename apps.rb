@@ -27,7 +27,7 @@ cask "postico"
 cask "reveal"
 cask "slack"
 cask "skype"
-cask "sublime-text"
+dep "sublime-text3", :template => "icelab:cask" do requires "icelab:homebrew tap".with "caskroom/versions" end
 cask "superduper"
 cask "taskpaper"
 cask "tokens"
