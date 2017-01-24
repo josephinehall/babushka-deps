@@ -16,6 +16,10 @@ subl "Better Ruby.subl_package" do
   source "https://github.com/fnando/better-ruby-for-sublime-text"
 end
 
+subl "CloseOtherWindows.subl_package" do
+  source "https://github.com/werkzeugh/CloseOtherWindows_SublimePlugin"
+end
+
 subl "CodeFormatter.subl_package" do
   source "https://github.com/akalongman/sublimetext-codeformatter"
 end

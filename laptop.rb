@@ -78,6 +78,7 @@ dep "personal" do
   requires "ApplySyntax.subl_package"
   requires "BetterFindBuffer.subl_package"
   requires "Better Ruby.subl_package"
+  requires "CloseOtherWindows.subl_package"
   requires "CodeFormatter.subl_package"
   requires "CoffeeScript.subl_package"
   requires "ColorPicker.subl_package"
