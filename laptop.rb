@@ -18,7 +18,6 @@ dep "personal" do
   requires "cloc.managed"
   requires "csvkit.pip"
   requires "ctags.managed"
-  requires "fish.managed"
   requires "git-subrepo.managed"
   requires "graphviz.managed"
   requires "httpie.managed"
@@ -97,7 +96,6 @@ dep "personal" do
   requires "SublimeLinter-jshint.subl_package"
   requires "SublimeLinter-ruby.subl_package"
   requires "SublimeTableEditor.subl_package"
-  requires "sublime-fish-shell.subl_package"
   requires "Theme - Soda.subl_package"
   requires "TomDoc.subl_package"
   requires "TrailingSpaces.subl_package"
@@ -105,9 +103,6 @@ dep "personal" do
   # Development tools
   requires "react-native-cli.npm"
   requires "packer.managed"
-
-  # Use fish
-  requires "icelab:shell".with :shell_name => "fish"
 end
 
 dep "os x configured" do
