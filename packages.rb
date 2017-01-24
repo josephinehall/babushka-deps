@@ -6,7 +6,6 @@ end
 dep "carthage.managed"
 dep "cloc.managed"
 dep "ctags.managed"
-dep "fish.managed"
 dep "git-subrepo.managed"
 dep "graphviz.managed" do
   provides "dot"
