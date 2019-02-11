@@ -1,3 +1,8 @@
+dep "laptop bootstrapped" do
+  # Boostrap the standard Icelab environment
+  requires "icelab:workstation bootstrapped"
+end
+
 dep "laptop" do
   # Build the standard Icelab environment
   requires "icelab:workstation"
