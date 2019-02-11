@@ -24,16 +24,8 @@ subl "CodeFormatter.subl_package" do
   source "https://github.com/akalongman/sublimetext-codeformatter"
 end
 
-subl "CoffeeScript.subl_package" do
-  source "https://github.com/aponxi/sublime-better-coffeescript"
-end
-
 subl "ColorPicker.subl_package" do
   source "https://github.com/weslly/ColorPicker"
-end
-
-subl "Docker.subl_package" do
-  source "https://github.com/asbjornenge/Docker.tmbundle"
 end
 
 subl "GitGutter.subl_package" do
