@@ -38,7 +38,6 @@ dep "personal" do
 
   # Apps
   requires "dash"
-  requires "caffeine"
   requires "fork"
   requires "iterm2"
   requires "google-chrome"
