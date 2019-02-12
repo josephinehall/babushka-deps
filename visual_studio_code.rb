@@ -36,8 +36,7 @@ end
 dep "vscode ruby extension" do
   requires "icelab:repository".with \
     :path => "~/.vscode/extensions/vscode-ruby",
-    :url => "https://github.com/ypresto/vscode-ruby.git",
-    :branch => "add-symbols-provider"
+    :url => "https://github.com/ypresto/vscode-ruby.git"
 
   requires "debase.gem"
   requires "rcodetools.gem"
