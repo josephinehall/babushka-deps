@@ -45,7 +45,6 @@ dep "personal" do
   requires "launchbar"
   requires "licecap"
   requires "postico"
-  requires "slack"
   requires "sublime-text"
   requires "virtualbox"
   requires "visual-studio-code"
