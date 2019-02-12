@@ -27,7 +27,6 @@ extensions = %w[
   Rubymaniac.vscode-paste-and-indent
   ryu1kn.annotator
   sianglim.slim
-  steve8708.Align
   stkb.rewrap
   wmaurer.change-case
 ].each do |ext|
