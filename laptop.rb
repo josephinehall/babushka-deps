@@ -46,6 +46,7 @@ dep "personal" do
   requires "licecap"
   requires "postico"
   requires "sublime-text"
+  requires "vagrant"
   requires "virtualbox"
   requires "visual-studio-code"
   requires "vlc"
