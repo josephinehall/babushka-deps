@@ -1,6 +1,5 @@
 def cask(name); dep name, :template => "icelab:cask"; end # Avoid repitition below
 
-cask "1password"
 cask "dash"
 cask "fork"
 cask "google-chrome"
