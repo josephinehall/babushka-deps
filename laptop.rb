@@ -30,7 +30,6 @@ dep "personal" do
   requires "libdvdcss.managed"
   requires "mas.managed"
   requires "ne.managed"
-  requires "ngrok"
   requires "pygments.py"
   requires "s3cmd.managed"
   requires "switchaudio-osx.managed"
