@@ -39,5 +39,5 @@ babushka "laptop"
 
 - [ ] Create a new SSH key and add to GitHub
 - [ ] Open LaunchBar and step through the first-run screens
-- [ ] Open 1Password and sign in
+- [ ] Install 1Password from the Apple store and sign in
 
