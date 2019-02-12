@@ -38,6 +38,7 @@ dep "personal" do
 
   # Apps
   requires "dash"
+  requires "caffeine"
   requires "fork"
   requires "iterm2"
   requires "google-chrome"
@@ -49,7 +50,6 @@ dep "personal" do
   requires "virtualbox"
   requires "visual-studio-code"
   requires "vlc"
-
   requires "vscode extensions"
 
   # Sublime Text 3 packages
@@ -81,6 +81,9 @@ dep "personal" do
   # Development tools
   requires "react-native-cli.npm"
   requires "packer.managed"
+
+  # Launchbar actions
+  requires "launchbar actions"
 end
 
 dep "os x configured" do
