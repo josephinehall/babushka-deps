@@ -37,7 +37,6 @@ dep "personal" do
   requires "wget.managed"
 
   # Apps
-  requires "1password"
   requires "dash"
   requires "fork"
   requires "iterm2"
