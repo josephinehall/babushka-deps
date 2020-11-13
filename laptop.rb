@@ -48,9 +48,7 @@ dep "personal" do
   requires "sublime-text"
   requires "vagrant"
   requires "virtualbox"
-  requires "visual-studio-code"
   requires "vlc"
-  requires "vscode extensions"
 
   # Sublime Text 3 packages
   requires "AdvancedNewFile.subl_package"
